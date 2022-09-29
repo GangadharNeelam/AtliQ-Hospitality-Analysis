@@ -14,7 +14,10 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ### Analysis Dashboard
 
-![AtliQ analysis](https://user-images.githubusercontent.com/93145713/192017600-ae3b08ac-2309-4e86-bdc5-494a65d96ed0.png)
+![Dashboard_01](https://user-images.githubusercontent.com/93145713/192952537-87c1371f-928c-4c75-a75c-b06eda502103.png)
+![Dashboard_02](https://user-images.githubusercontent.com/93145713/192952588-8f7d2340-a20d-493e-8e7c-38d0f63acba3.png)
+
+
 
 ### Aspects that I have learnt from this project are :
 - Researching and understanding the important metrics in the hospitality domain. 
