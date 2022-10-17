@@ -22,7 +22,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Dashboard_02](https://user-images.githubusercontent.com/93145713/192952588-8f7d2340-a20d-493e-8e7c-38d0f63acba3.png)
 
 
-
 ### Aspects that I have learnt from this project are :
 - Researching and understanding the important metrics in the hospitality domain. 
 - Data modelling
